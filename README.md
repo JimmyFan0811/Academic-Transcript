@@ -28,5 +28,5 @@ This repository contains my academic transcripts and selected coursework.
 
 ## Transcript
 
-- [Undergraduate Transcript](transcript/undergraduate_transcript.pdf)
-- [Graduate Transcript](transcript/graduate_transcript.pdf)
+- [NTHU_university_transcript](NTHU_university_transcript.pdf)
+- [NCKU_graduate_school_transcript](NCKU_graduate_school_transcript.pdf)
